@@ -7,9 +7,7 @@ This repository ▶contains a simple implementation of a binary tree data struct
 ▶ Table of Contents
 
 - [Overview](#overview)  
-- [Features](#features)  
-- [Usage](#usage)  
-- [Functions](#functions)  
+- [Features](#features) 
 
 ▶ Overview
 
