@@ -22,7 +22,3 @@ A binary tree is a hierarchical data structure in which each node has at most tw
 * **Searching**: Find a specific value in the tree.  
 * **Deletion**: Remove nodes and clear the tree.  
 * **Height and Size Calculation**: Retrieve the height and size of the tree.
-
-▶ Functions
-
-
