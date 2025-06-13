@@ -2,7 +2,7 @@ Binary Trees
 
 ▶ Introduction
 
-This repository ▶contains a simple implementation of a binary tree data structure in C, showcasing various tree operations such as insertion, traversal, and deletion.  
+This repository contains a simple implementation of a binary tree data structure in C, showcasing various tree operations such as insertion, traversal, and deletion.  
 
 ▶ Table of Contents
 
